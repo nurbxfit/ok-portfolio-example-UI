@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "cf-hono-ssr-react",
+  "name": "ok-portfolio",
   "compatibility_flags": [
     "nodejs_compat"
   ],
